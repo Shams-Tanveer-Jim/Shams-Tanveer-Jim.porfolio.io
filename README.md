@@ -8,27 +8,15 @@ I have a strong background in software development with a focus on creating effi
 
 ## Skills
 
-- **Programming Languages**: JavaScript, Python, Java, C++
+- **Programming Languages**:  Python, Java, Dart
 - **Web Development**: HTML5, CSS3, React, Angular, Node.js, Django
 - **Databases**: PostgreSQL, MySQL, MongoDB
-- **Tools & Platforms**: Git, Docker, Kubernetes, AWS, GitHub, GitLab
-- **Methodologies**: Agile, Scrum, Test-Driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD)
+- **Tools & Platforms**: Git, Docker, GitHub, GitLab
 
 ## Projects
 
-### Project 1: Awesome Web App
-- **Description**: A web application designed to manage tasks and increase productivity.
-- **Technologies**: React, Node.js, PostgreSQL, Docker
-- **Link**: [GitHub Repository](https://github.com/ShamsTanveerJim/awesome-web-app)
-- **Demo**: [Live Demo](https://your-live-demo-link.com)
 
-### Project 2: Machine Learning Model
-- **Description**: A machine learning model that predicts housing prices with high accuracy.
-- **Technologies**: Python, scikit-learn, pandas, Jupyter Notebook
-- **Link**: [GitHub Repository](https://github.com/ShamsTanveerJim/ml-model)
-- **Demo**: [Live Demo](https://your-live-demo-link.com)
-
-### Project 3: Mobile App
+### Project 1: Mobile App
 - **Description**: A mobile application for tracking fitness activities and goals.
 - **Technologies**: Flutter, Firebase
 - **Link**: [GitHub Repository](https://github.com/ShamsTanveerJim/fitness-app)
