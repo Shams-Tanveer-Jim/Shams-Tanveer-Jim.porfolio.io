@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.calenderapiapp",
+            "sha256_cert_fingerprints": [
+                "64:d2:f8:59:df:d1:77:62:26:85:ba:82:8e:6b:f0:8c:a4:e9:28:93:38:f3:4d:89:4d:c0:46:fc:05:a1:20:3f"
+            ]
+        }
+    }
+]
