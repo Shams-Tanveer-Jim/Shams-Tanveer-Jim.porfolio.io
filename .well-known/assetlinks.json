@@ -5,7 +5,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.example.fb_login",
+            "package_name": "com.example.bhoganti",
             "sha256_cert_fingerprints": [
                 "64:D2:F8:59:DF:D1:77:62:26:85:BA:82:8E:6B:F0:8C:A4:E9:28:93:38:F3:4D:89:4D:C0:46:FC:05:A1:20:3F"
             ]
